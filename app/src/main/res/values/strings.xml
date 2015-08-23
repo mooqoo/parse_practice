@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+
+    <!-- action -->
+    <string name="action_add">add</string>
+    <string name="action_refresh">refresh</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- activity edit -->
+    <string name="title_activity_edit_note">Add/Edit</string>
+    <string name="note_title_hint">Title</string>
+    <string name="note_content_hint">Content</string>
+    <string name="save_button">Save</string>
+    <string name="edit_error_title">Error!</string>
+    <string name="edit_error_message">You cannot save a note without a title</string>
+
+
+</resources>
